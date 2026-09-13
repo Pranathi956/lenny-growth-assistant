@@ -1,0 +1,16 @@
+Placeholder demo transcript: Activation Metrics 101
+
+This is a synthetic placeholder used only to exercise the retrieval and
+chat pipeline during local development. In this fictional episode, a
+product growth lead discusses how teams often pick an activation metric
+too early, before they have enough usage data to know which early action
+actually predicts long-term retention. The suggested approach: log every
+plausible early action for the first few weeks, then correlate each one
+against week-4 retention, and pick the metric with the strongest and most
+actionable correlation, not just the most obvious one.
+
+A second theme in this placeholder episode is the difference between a
+"north star metric" and an "activation metric" -- the north star describes
+long-term value delivered, while activation describes whether a new user
+reached a first moment of that value. Conflating the two leads teams to
+optimize onboarding for the wrong signal.

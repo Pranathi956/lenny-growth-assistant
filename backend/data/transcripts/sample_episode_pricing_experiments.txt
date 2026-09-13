@@ -1,0 +1,12 @@
+Placeholder demo transcript: Pricing Experiments
+
+This is a synthetic placeholder transcript, not real podcast content. In
+this fictional episode, a growth practitioner describes running staged
+pricing experiments: first validating willingness-to-pay through
+qualitative interviews, then testing price sensitivity with a small
+cohort using a feature-flagged price point, and only rolling out broadly
+once the cohort's conversion and churn numbers hold up over a full
+billing cycle. The discussion emphasizes that pricing changes should be
+evaluated on cohort-level LTV, not just week-one conversion rate, because
+some price points convert well but attract low-intent users who churn
+fast.
