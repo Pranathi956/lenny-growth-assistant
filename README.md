@@ -127,13 +127,3 @@ automated tests (an intentional scope choice) plus a manual test plan below.
 Coding-agent session logs go in [`agent-transcripts/`](agent-transcripts/) —
 see the README there.
 
-## Demo video checklist
-
-- Camera on, 2–3 minutes.
-- State the problem and primary user (from PRD.md).
-- Show the product: ask a grounded question, generate an artifact, toggle
-  the model.
-- Explicitly demonstrate the **local Ollama path working**.
-- Cover one real trade-off out loud (e.g. TF-IDF vs. embeddings, or the
-  keyword router vs. an LLM router) — pick whichever one you can explain in
-  your own words most confidently.
